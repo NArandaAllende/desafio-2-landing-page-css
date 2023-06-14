@@ -1,0 +1,51 @@
+header {
+    height: 20%;
+    padding: 1em;
+    font-size: 2em;
+    background-image: url("../imgs/ibuPportada.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: calc(100% - 10px) calc(100% - 10px);
+    color: rgb(78, 66, 57);
+    font-style: oblique;
+
+}
+
+header h1 {
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    background-color: antiquewhite;
+}
+.products {
+    width: 80%;
+    margin: auto;
+}
+
+.products td {
+    width: 50%;
+    padding: 2em;
+    
+}
+.products p {
+    font-size: larger;
+    text-align:left;
+    font-weight: bolder;
+    color: rgb(78, 66, 57);
+}
+.products img {
+    width: 50%;
+    height: 50%;
+    padding-left: 30%;
+}
+ 
+footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(245, 164, 83);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
